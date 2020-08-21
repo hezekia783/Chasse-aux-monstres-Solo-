@@ -1,0 +1,356 @@
+{
+    "_id": 31,
+    "ankamaId": 31,
+    "name": "Larve Bleue",
+    "level": null,
+    "type": "Larves",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/monsters/200/31.png",
+    "url": "https://www.dofus.com/fr/mmorpg/encyclopedie/monstres/31-larve-bleue",
+    "statistics": [
+      {
+        "PV": {
+          "min": 90,
+          "max": 130
+        }
+      },
+      {
+        "PA": {
+          "min": 5,
+          "max": null
+        }
+      },
+      {
+        "PM": {
+          "min": 2,
+          "max": null
+        }
+      }
+    ],
+    "resistances": [
+      {
+        "Terre": {
+          "min": 6,
+          "max": 10
+        }
+      },
+      {
+        "Air": {
+          "min": -9,
+          "max": -5
+        }
+      },
+      {
+        "Feu": {
+          "min": 6,
+          "max": 10
+        }
+      },
+      {
+        "Eau": {
+          "min": -9,
+          "max": -5
+        }
+      },
+      {
+        "Neutre": {
+          "min": 1,
+          "max": 5
+        }
+      }
+    ],
+    "areas": [
+      "Port de Madrestam",
+      "Bord de la forêt maléfique",
+      "Prairies d'Astrub",
+      "Village de Pandala",
+      "Côte d'Asse",
+      "Rivière Kawaii"
+    ],
+    "drops": [
+      {
+        "ankamaId": null,
+        "url": null,
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/60068.w48h48.png",
+        "name": "Pollenectar",
+        "dropPercent": {
+          "min": 100,
+          "max": null
+        }
+      },
+      {
+        "ankamaId": null,
+        "url": null,
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/63409.w48h48.png",
+        "name": "Morceau de larve",
+        "dropPercent": {
+          "min": 100,
+          "max": null
+        }
+      },
+      {
+        "ankamaId": 17123,
+        "url": "https://www.dofus.com/fr/mmorpg/encyclopedie/ressources/17123-viande-hachee",
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/175008.w48h48.png",
+        "name": "Viande Hachée",
+        "dropPercent": {
+          "min": 46,
+          "max": null
+        }
+      },
+      {
+        "ankamaId": 10967,
+        "url": "https://www.dofus.com/fr/mmorpg/encyclopedie/consommables/10967-cervelle-larve",
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/69113.w48h48.png",
+        "name": "Cervelle de larve",
+        "dropPercent": {
+          "min": 5,
+          "max": null
+        }
+      },
+      {
+        "ankamaId": null,
+        "url": null,
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/24083.w48h48.png",
+        "name": "Grappe d'Œufs de larve",
+        "dropPercent": {
+          "min": 100,
+          "max": null
+        }
+      },
+      {
+        "ankamaId": null,
+        "url": null,
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/24070.w48h48.png",
+        "name": "Œil de Larve bleue",
+        "dropPercent": {
+          "min": 100,
+          "max": null
+        }
+      }
+    ]
+  }
+
+
+  {
+    "_id": 34,
+    "ankamaId": 34,
+    "name": "Larve Verte",
+    "level": null,
+    "type": "Larves",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/monsters/200/34.png",
+    "url": "https://www.dofus.com/fr/mmorpg/encyclopedie/monstres/34-larve-verte",
+    "statistics": [
+      {
+        "PV": {
+          "min": 90,
+          "max": 130
+        }
+      },
+      {
+        "PA": {
+          "min": 5,
+          "max": null
+        }
+      },
+      {
+        "PM": {
+          "min": 3,
+          "max": null
+        }
+      }
+    ],
+    "resistances": [
+      {
+        "Terre": {
+          "min": 1,
+          "max": 5
+        }
+      },
+      {
+        "Air": {
+          "min": 6,
+          "max": 10
+        }
+      },
+      {
+        "Feu": {
+          "min": -9,
+          "max": -5
+        }
+      },
+      {
+        "Eau": {
+          "min": 1,
+          "max": 5
+        }
+      },
+      {
+        "Neutre": {
+          "min": 0,
+          "max": null
+        }
+      }
+    ],
+    "areas": [
+      "Faubourgs de Pandala",
+      "Bord de la forêt maléfique",
+      "Prairies d'Astrub",
+      "Port de Madrestam",
+      "Côte d'Asse",
+      "Rivière Kawaii"
+    ],
+    "drops": [
+      {
+        "ankamaId": null,
+        "url": null,
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/60068.w48h48.png",
+        "name": "Pollenectar",
+        "dropPercent": {
+          "min": 100,
+          "max": null
+        }
+      },
+      {
+        "ankamaId": null,
+        "url": null,
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/63409.w48h48.png",
+        "name": "Morceau de larve",
+        "dropPercent": {
+          "min": 100,
+          "max": null
+        }
+      },
+      {
+        "ankamaId": 17124,
+        "url": "https://www.dofus.com/fr/mmorpg/encyclopedie/ressources/17124-viande-faisandee",
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/63348.w48h48.png",
+        "name": "Viande Faisandée",
+        "dropPercent": {
+          "min": 46,
+          "max": null
+        }
+      },
+      {
+        "ankamaId": 10967,
+        "url": "https://www.dofus.com/fr/mmorpg/encyclopedie/consommables/10967-cervelle-larve",
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/69113.w48h48.png",
+        "name": "Cervelle de larve",
+        "dropPercent": {
+          "min": 5,
+          "max": null
+        }
+      }
+    ]
+  }
+
+  {
+    "_id": 46,
+    "ankamaId": 46,
+    "name": "Larve Orange",
+    "level": null,
+    "type": "Larves",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/monsters/200/46.png",
+    "url": "https://www.dofus.com/fr/mmorpg/encyclopedie/monstres/46-larve-orange",
+    "statistics": [
+      {
+        "PV": {
+          "min": 90,
+          "max": 130
+        }
+      },
+      {
+        "PA": {
+          "min": 5,
+          "max": null
+        }
+      },
+      {
+        "PM": {
+          "min": 3,
+          "max": null
+        }
+      }
+    ],
+    "resistances": [
+      {
+        "Terre": {
+          "min": -9,
+          "max": -5
+        }
+      },
+      {
+        "Air": {
+          "min": 6,
+          "max": 10
+        }
+      },
+      {
+        "Feu": {
+          "min": -9,
+          "max": -5
+        }
+      },
+      {
+        "Eau": {
+          "min": 21,
+          "max": 25
+        }
+      },
+      {
+        "Neutre": {
+          "min": 1,
+          "max": 5
+        }
+      }
+    ],
+    "areas": [
+      "Faubourgs de Pandala",
+      "Bord de la forêt maléfique",
+      "Prairies d'Astrub",
+      "Port de Madrestam",
+      "Côte d'Asse",
+      "Rivière Kawaii"
+    ],
+    "drops": [
+      {
+        "ankamaId": null,
+        "url": null,
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/60068.w48h48.png",
+        "name": "Pollenectar",
+        "dropPercent": {
+          "min": 100,
+          "max": null
+        }
+      },
+      {
+        "ankamaId": null,
+        "url": null,
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/63409.w48h48.png",
+        "name": "Morceau de larve",
+        "dropPercent": {
+          "min": 100,
+          "max": null
+        }
+      },
+      {
+        "ankamaId": 17124,
+        "url": "https://www.dofus.com/fr/mmorpg/encyclopedie/ressources/17124-viande-faisandee",
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/63348.w48h48.png",
+        "name": "Viande Faisandée",
+        "dropPercent": {
+          "min": 46,
+          "max": null
+        }
+      },
+      {
+        "ankamaId": 10967,
+        "url": "https://www.dofus.com/fr/mmorpg/encyclopedie/consommables/10967-cervelle-larve",
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/69113.w48h48.png",
+        "name": "Cervelle de larve",
+        "dropPercent": {
+          "min": 5,
+          "max": null
+        }
+      }
+    ]
+  }

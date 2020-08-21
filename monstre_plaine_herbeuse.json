@@ -1,0 +1,260 @@
+{
+    "_id": 1019,
+    "ankamaId": 1019,
+    "name": "Bitouf des Plaines",
+    "level": null,
+    "type": "Monstres des Plaines herbeuses",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/monsters/200/1019.png",
+    "url": "https://www.dofus.com/fr/mmorpg/encyclopedie/monstres/1019-bitouf-plaines",
+    "statistics": [
+      {
+        "PV": {
+          "min": 1700,
+          "max": 2000
+        }
+      },
+      {
+        "PA": {
+          "min": 9,
+          "max": null
+        }
+      },
+      {
+        "PM": {
+          "min": 10,
+          "max": null
+        }
+      }
+    ],
+    "resistances": [
+      {
+        "Terre": {
+          "min": -19,
+          "max": -15
+        }
+      },
+      {
+        "Air": {
+          "min": -9,
+          "max": -5
+        }
+      },
+      {
+        "Feu": {
+          "min": -23,
+          "max": -19
+        }
+      },
+      {
+        "Eau": {
+          "min": -9,
+          "max": -5
+        }
+      },
+      {
+        "Neutre": {
+          "min": 5,
+          "max": 13
+        }
+      }
+    ],
+    "areas": [
+      "Plaines herbeuses"
+    ],
+    "drops": [
+      {
+        "ankamaId": null,
+        "url": null,
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/60068.w48h48.png",
+        "name": "Pollenectar",
+        "dropPercent": {
+          "min": 100,
+          "max": null
+        }
+      },
+      {
+        "ankamaId": 17142,
+        "url": "https://www.dofus.com/fr/mmorpg/encyclopedie/ressources/17142-viande-sechee",
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/63506.w48h48.png",
+        "name": "Viande Séchée",
+        "dropPercent": {
+          "min": 28,
+          "max": null
+        }
+      }
+    ]
+  }
+
+  {
+    "_id": 1025,
+    "ankamaId": 1025,
+    "name": "Craqueleur Poli",
+    "level": null,
+    "type": "Monstres des Plaines herbeuses",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/monsters/200/1025.png",
+    "url": "https://www.dofus.com/fr/mmorpg/encyclopedie/monstres/1025-craqueleur-poli",
+    "statistics": [
+      {
+        "PV": {
+          "min": 1700,
+          "max": 2000
+        }
+      },
+      {
+        "PA": {
+          "min": 7,
+          "max": null
+        }
+      },
+      {
+        "PM": {
+          "min": 4,
+          "max": null
+        }
+      }
+    ],
+    "resistances": [
+      {
+        "Terre": {
+          "min": 25,
+          "max": 41
+        }
+      },
+      {
+        "Air": {
+          "min": 5,
+          "max": 13
+        }
+      },
+      {
+        "Feu": {
+          "min": -5,
+          "max": -1
+        }
+      },
+      {
+        "Eau": {
+          "min": -40,
+          "max": -20
+        }
+      },
+      {
+        "Neutre": {
+          "min": 1,
+          "max": 5
+        }
+      }
+    ],
+    "areas": [
+      "Plaines herbeuses"
+    ],
+    "drops": [
+      {
+        "ankamaId": null,
+        "url": null,
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/60068.w48h48.png",
+        "name": "Pollenectar",
+        "dropPercent": {
+          "min": 100,
+          "max": null
+        }
+      },
+      {
+        "ankamaId": 17142,
+        "url": "https://www.dofus.com/fr/mmorpg/encyclopedie/ressources/17142-viande-sechee",
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/63506.w48h48.png",
+        "name": "Viande Séchée",
+        "dropPercent": {
+          "min": 28,
+          "max": null
+        }
+      }
+    ]
+  }
+
+  {
+    "_id": 1026,
+    "ankamaId": 1026,
+    "name": "Craqueboule Poli",
+    "level": null,
+    "type": "Monstres des Plaines herbeuses",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/monsters/200/1026.png",
+    "url": "https://www.dofus.com/fr/mmorpg/encyclopedie/monstres/1026-craqueboule-poli",
+    "statistics": [
+      {
+        "PV": {
+          "min": 1600,
+          "max": 1900
+        }
+      },
+      {
+        "PA": {
+          "min": 8,
+          "max": null
+        }
+      },
+      {
+        "PM": {
+          "min": 3,
+          "max": null
+        }
+      }
+    ],
+    "resistances": [
+      {
+        "Terre": {
+          "min": 5,
+          "max": 25
+        }
+      },
+      {
+        "Air": {
+          "min": 25,
+          "max": 29
+        }
+      },
+      {
+        "Feu": {
+          "min": -25,
+          "max": -17
+        }
+      },
+      {
+        "Eau": {
+          "min": 5,
+          "max": 25
+        }
+      },
+      {
+        "Neutre": {
+          "min": 1,
+          "max": 5
+        }
+      }
+    ],
+    "areas": [
+      "Plaines herbeuses"
+    ],
+    "drops": [
+      {
+        "ankamaId": null,
+        "url": null,
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/60068.w48h48.png",
+        "name": "Pollenectar",
+        "dropPercent": {
+          "min": 100,
+          "max": null
+        }
+      },
+      {
+        "ankamaId": 17142,
+        "url": "https://www.dofus.com/fr/mmorpg/encyclopedie/ressources/17142-viande-sechee",
+        "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/ng/img/../../../dofus/www/game/items/52/63506.w48h48.png",
+        "name": "Viande Séchée",
+        "dropPercent": {
+          "min": 29,
+          "max": null
+        }
+      }
+    ]
+  }
